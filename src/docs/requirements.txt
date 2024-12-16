@@ -2,3 +2,4 @@ problog
 torchvision
 torch
 furo
+PySwip

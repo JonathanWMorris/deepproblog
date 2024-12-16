@@ -23,6 +23,9 @@ and run
 python -m deepproblog test
 ```
 
+## Docs
+To create the docs, go to `src/docs` and run `make`
+
 ## Requirements
 
 DeepProbLog has the following requirements:
